@@ -1,6 +1,6 @@
 # Deeznuts
-A personal project showcase. Static HTML, CSS, and JavaScript with no build step.
+Minimal personal project showcase. No dependencies or build step.
 
-Edit `dist/index.html` to add your bio and real projects. Project entries are explicitly labeled samples. Update each card's `data-status` to `building` or `idea` for filtering.
+Edit `dist/index.html` to replace the labeled sample entries and about text. Styles live in `dist/style.css`.
 
 Preview: `python3 -m http.server 8080 --directory dist`
